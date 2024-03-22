@@ -35,4 +35,6 @@
 
 <a name="大模型微调"></a>
 ### 基于Mistral-7B-v0.2的微调实现文本分类
+
+ [Reference](https://github.com/mehdiir/Roberta-Llama-Mistral/tree/main)
 - Mistral-7B-v2/Finetune_Mistral7B.ipynb
