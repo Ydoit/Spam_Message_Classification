@@ -22,6 +22,7 @@
 [Reference](https://github.com/CuiCh/Spam_Message_Classification)
 
 - SVM/classifier.ipynb
+>- 效果很不好，需要改进promot
 
 
 
@@ -30,7 +31,8 @@
 <a name="大模型推理"></a>
 ### 大模型推理 
 
-- LLM-infer/
+- LLM-infer/infer.py
+  
 
 
 <a name="大模型微调"></a>
