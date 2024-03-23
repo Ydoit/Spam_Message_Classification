@@ -22,7 +22,9 @@
 [Reference](https://github.com/CuiCh/Spam_Message_Classification)
 
 - SVM/classifier.ipynb
->- 效果很不好，需要改进promot
+>- 效果很不好，需要改进prompt
+
+>- 示例prompt
 
 
 
